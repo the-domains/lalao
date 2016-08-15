@@ -1,4 +1,3 @@
-layout_spectrum: 0.4361098853405565
 typography_spectrum: 0.9212472578510642
 color:
   brandStrength: 0.9713529471773654
@@ -11,4 +10,10 @@ color:
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
+layout_spectrum: 0.4361098853405565
+author:
+  name: Lalao Rakotoniaina
+  email: lalao@lalao.com
+  url: lalao.com
 name: lalao
+title: design in mind
