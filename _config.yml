@@ -16,4 +16,8 @@ author:
   email: lalao@lalao.com
   url: lalao.com
 name: lalao
+navigation:
+  - name: Portfolio
+    url: 'http://lalao.com'
+    type: external
 title: design in mind
